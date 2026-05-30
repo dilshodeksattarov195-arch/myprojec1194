@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerralculate",
+        "uuid": 7296534,
+        "checksum": "sayrx"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
